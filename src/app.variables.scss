@@ -1,0 +1,20 @@
+// Global style variables.
+$font-weight: 300;
+$font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans',
+	Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+$font-size: 16px;
+
+$color-background: #121212;
+$color-background-panel: rgb(23, 23, 26);
+$color-background-header: $color-background-panel;
+
+$color-text-high: transparentize(#fff, 0.13);
+$color-text-medium: transparentize(#fff, 0.5);
+$color-text-disabled: transparentize(#fff, 0.62);
+
+$color-text: $color-text-medium;
+$color-link: $color-text-high;
+$color-link-hover: $color-text;
+
+$breakpoint-tablet: 768px;
+$breakpoint-mobile: 480px;
