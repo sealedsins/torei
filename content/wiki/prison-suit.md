@@ -1,7 +1,7 @@
 ---
 title: Prison Suit
 tags: ['wiki', 'fashion']
-image: /assets/wiki/prison-suit.jpg
+# image: /assets/wiki/prison-suit.jpg
 ---
 
 **Prison suit** is a specialized garment that is worn by inmates in prisons and correctional facilities throughout the planet [Torei](/wiki/torei). It is a variation of the [slave suit](/wiki/slave-suit), a form of clothing that is widely used in the Torean society for those in a position of subservience.

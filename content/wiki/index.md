@@ -33,7 +33,7 @@ Whether you're a [visitor to the planet](/wiki/off-worlder) or a [longtime resid
 #title
 Geography
 
-#default
+#content
 Torei is a planet known for its harsh and unforgiving geography, with most of its surface covered by barren badlands. The habitable regions are concentrated around the equator, where a narrow band of fertile land allows for the growth of crops and the establishment of cities.
 
 [Planet](/wiki/torei) &nbsp;|&nbsp;
@@ -48,7 +48,7 @@ Torei is a planet known for its harsh and unforgiving geography, with most of it
 #title
 Society
 
-#default
+#content
 Torean society is defined by its unique blend of high technology and ancient traditions, and its strict adherence to a hierarchical social structure that revolves around dominance and submission. Slavery is an integral part of Torean culture, and is deeply intertwined with the power dynamics of the society as a whole.
 
 [Toreans](/wiki/torean) &nbsp;|&nbsp;
@@ -63,7 +63,7 @@ Torean society is defined by its unique blend of high technology and ancient tra
 #title
 Fashion
 
-#default
+#content
 Torean fashion is defined by its unique use of laminate, a stretchy and durable material that can be molded into any form or color. The majority of clothing on Torei is made of this material, with skin-tight garments being particularly popular. Bondage equipment is also widely used in Torean fashion, indicating social status and adding to the overall aesthetic.
 
 [Laminate](/wiki/laminate) &nbsp;|&nbsp;
@@ -71,4 +71,18 @@ Torean fashion is defined by its unique use of laminate, a stretchy and durable 
 [Survival Suit](/wiki/survival-suit) &nbsp;|&nbsp;
 [Slave Suit](/wiki/slave-suit) &nbsp;|&nbsp;
 [Prison Suit](/wiki/prison-suit)
+::
+
+<!-- Technology -->
+
+::wiki-featured{icon="fa-solid fa-gear"}
+#title
+Technology
+
+#content
+Torean technology is highly advanced, with a focus on biotechnology and the creation of implants that enhance physical and mental capabilities. While they may not be as advanced in some areas as the greater human society, Torean biological sciences are unparalleled, resulting in extraordinary longevity and beauty among its inhabitants.
+
+[Control Collar](/wiki/control-collar) &nbsp;|&nbsp;
+[Chastity Belt](/wiki/chastity-belt)
+
 ::
