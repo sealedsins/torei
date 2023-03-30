@@ -113,13 +113,10 @@ $content-padding: 1em;
 	}
 
 	&__logo {
-		margin: -30% 0;
+		position: relative;
+		margin: -28% 0;
 		height: 1.65em;
 		width: 1.65em;
-
-		@media (max-width: $breakpoint-mobile) {
-			margin-right: -0.25em;
-		}
 	}
 
 	&__title,

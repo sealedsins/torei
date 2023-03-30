@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { page } = useContent();
+useHead({ title: page.value ? page.value.title : 'Not Found' });
 onMounted(() => setTimeout(() => window.scrollTo(0, -100)));
 </script>
 

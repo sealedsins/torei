@@ -70,9 +70,11 @@ a {
 		color: inherit;
 	}
 
-	&:hover {
-		transition: color 0.25s;
-		color: $color-link-hover;
+	@media (hover: hover) {
+		&:hover {
+			transition: color 0.25s;
+			color: $color-link-hover;
+		}
 	}
 }
 

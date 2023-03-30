@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const route = useRoute();
 const query = { where: { tags: { $contains: route.params.tag.toString() } } };
+useHead({ title: `Tag "${route.params.tag.toString()}"` });
 </script>
 
 <template>
