@@ -16,10 +16,11 @@
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.3.0",
+		"@fortawesome/free-brands-svg-icons": "^6.4.0",
 		"@fortawesome/free-solid-svg-icons": "^6.3.0",
 		"@fortawesome/vue-fontawesome": "^3.0.3",
-		"body-scroll-lock": "^4.0.0-beta.0",
 		"@nuxt/content": "^2.5.2",
+		"body-scroll-lock": "^4.0.0-beta.0",
 		"nuxt": "^3.2.3"
 	},
 	"devDependencies": {

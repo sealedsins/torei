@@ -2,12 +2,17 @@
 import icon from '~/assets/favicon.png';
 import logo from '~/assets/logo.png';
 
+const disclaimerAccepted = useLocalStorage('disclaimer-accepted', false);
+
 const { data } = await useAsyncData(() => fetchContentNavigation());
-const navigation = computed(() => {
+const navigationMain = computed(() => {
 	return data.value?.sort((a, b) => (a.order || 0) - (b.order || 0));
 });
 
-const disclaimerAccepted = useLocalStorage('disclaimer-accepted', false);
+const navigationExtra = [
+	{ icon: 'fa-brands fa-github', path: 'https://github.com/sealedsins/torei' },
+	{ icon: 'fa-brands fa-twitter', path: 'https://twitter.com/sealedsins' },
+];
 </script>
 
 <template>
@@ -22,9 +27,19 @@ const disclaimerAccepted = useLocalStorage('disclaimer-accepted', false);
 				<NuxtLink to="/" class="nav__title">
 					<img class="nav__logo" :src="logo" />
 				</NuxtLink>
-				<template v-for="link in navigation">
+				<template v-for="link in navigationMain">
 					<NuxtLink v-if="link.title" class="nav__item" :href="link._path">
 						<span>{{ link.title }}</span>
+					</NuxtLink>
+				</template>
+				<div class="nav__separator"></div>
+				<template v-for="link in navigationExtra">
+					<NuxtLink
+						class="nav__item nav__item--extra"
+						target="_blank"
+						:href="link.path"
+					>
+						<font-awesome-icon :icon="link.icon" />
 					</NuxtLink>
 				</template>
 			</div>
@@ -98,9 +113,10 @@ $content-padding: 1em;
 	}
 
 	&__logo {
-		margin: -25% 0;
+		margin: -30% 0;
 		height: 1.65em;
 		width: 1.65em;
+
 		@media (max-width: $breakpoint-mobile) {
 			margin-right: -0.25em;
 		}
@@ -109,6 +125,18 @@ $content-padding: 1em;
 	&__title,
 	&__item:not(:last-child) {
 		margin-right: 1.35em;
+
+		@media (max-width: $breakpoint-mobile) {
+			margin-right: 0.85em;
+		}
+	}
+
+	&__item--extra {
+		opacity: 0.15;
+	}
+
+	&__separator {
+		flex-grow: 1;
 	}
 }
 
