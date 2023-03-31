@@ -15,7 +15,7 @@ The Triune Ministries are administrative bodies common to all Torean Ringdoms. T
 
 _Learn More: [Polar AIs](/wiki/ai)_
 
-Two biomechanical supercomputers located on the poles of Torei, Dahom to the North and Mazos to the South, are among the most advanced technologies on the planet. They gained their own will and consciousness, becoming Torean artificial demigods. Their emergence as sentient beings caused a major shift in Torean society, as they began to exert their own will and influence over the planet.
+Two biomechanical supercomputers located on the poles of Torei, Dahom to the North and Mazos to the South, are among the most advanced technologies on the planet. Their emergence as sentient beings caused a major shift in Torean society, as they began to exert their own will and influence over the planet.
 
 ## Emissaries
 

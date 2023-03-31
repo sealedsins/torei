@@ -24,7 +24,7 @@ Torei, being a planet in the process of terraforming, has a range of climates an
 
 Moving towards the [middle of the planet](/wiki/badlands), the climate becomes more moderate in the temperate zone. This area experiences milder temperatures than the equatorial belt, but the weather is still harsh and unpredictable. Occasional rainfall is common, but long periods of drought are also a possibility. Despite the name, the temperate zone is not easily habitable and is often the site of intense and ongoing terraforming efforts.
 
-At the farthest reaches of Torei are the [polar regions](/wiki/ai), which are the most inhospitable areas on the planet. Temperatures in these areas can drop to well below freezing, and snow and ice are common. The terrain is rugged and harsh, with few resources and little life. Despite this, there are some who choose to make their homes in the polar regions, either as part of scientific research teams or as a way to escape the constraints of Torean society.
+At the farthest reaches of Torei are the [polar regions](/wiki/ai), which are the most inhospitable areas on the planet. Temperatures in these areas can drop to well below freezing, and snow and ice are common. The terrain is rugged and harsh, with few resources and little life.
 
 ## Influence
 
@@ -36,4 +36,4 @@ In the urbanized areas near the space elevator, Torean buildings often have air 
 
 Torean clothing also has adapted to the planet's unique climate. Most Torean clothing is made of a thin yet durable layer of stretchy material known as [laminate](/wiki/laminate), which is able to keep the wearer warm in cold and rainy weather, while also providing breathability in hot and dry weather.
 
-For those venturing out into the [harsh climate outside of the ringdoms](/wiki/badlands), [survival suits](/wiki/survival-suit) are essential. These suits are designed for survival in the most extreme conditions and usually come equipped with a helmet and high-tech add-ons such as air and waste filtration. They are often used by those working in the terraforming project or those exploring the badlands.
+For those venturing out into the [harsh regions](/wiki/badlands) outside of the ringdoms, [survival suits](/wiki/survival-suit) are essential. These suits are designed for survival in the most extreme conditions and usually come equipped with a helmet and high-tech add-ons such as air and waste filtration. They are often used by those working in the terraforming project or those exploring the badlands.

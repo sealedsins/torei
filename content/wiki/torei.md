@@ -4,45 +4,47 @@ tags: ['wiki', 'geography']
 image: /assets/wiki/planet.jpg
 ---
 
-**Torei** is a planet located in the intergalactic space between Andromeda and the Milky Way, and it is the most remote human settlement. It is famous for its odd development history, its worldwide practice of matriarchy and chattel slavery, and its unique and distinctive fashion and technology.
+**Torei** is a planet located in the intergalactic space between Andromeda and the Milky Way, and it is the most remote human settlement. It is famous for its odd development history and worldwide practice of chattel [slavery](/wiki/slavery).
 
 :wiki-toc
 
 ## History
 
-Torei was settled by [humans](/wiki/torean) in the early days of interstellar travel. The planet's remote location made it difficult to reach, and it was only discovered by the [greater spacefaring human civilization](/wiki/off-worlder) after centuries of isolation.
+Torei was settled by [humans](/wiki/toreans) in the early days of interstellar travel. The planet's remote location made it difficult to reach, and it was only discovered by the [greater spacefaring human civilization](/wiki/off-worlder) after centuries of isolation.
 
 As the settlers faced many challenges adapting to the harsh climate and lack of resources, they turned to [slavery](/wiki/slavery), using human labor to perform the most dangerous and demanding tasks. This practice eventually evolved into a complex and multi-faceted institution that permeates nearly every aspect of Torean society.
 
 However, the emergence of the [Dahom and Mazos](/wiki/ai) brought a major shift in Torean society. As sentient beings with vast knowledge and capabilities, they gained control over the planet and its inhabitants, with the human population serving as their agents in the physical world.
 
-Despite the controversy surrounding Torean slavery, the planet's civilization thrived under the influence of the Polar AIs, developing advanced [technologies](/tag/technology) and making significant contributions to the wider universe.
+Despite the controversy surrounding Torean slavery, the planet's civilization thrived under the influence of the Polar AIs, developing advanced technologies and making significant contributions to the wider universe.
 
 ## Geography
 
-Torei is a planet with a fairly harsh climate that only supports human habitation along a narrow band around its equator. This "ring" shape of it has given rise to the name ["ringdoms"](/wiki/ringdom) for the nations on Torei. Each ringdom has its own laws, which can vary dramatically from one another.
+Torei geography is characterized by a narrow habitable zone that covers a fairly narrow band around the planet's equator. This area is known as the "ring," and the nations on Torei are called ["ringdoms"](/wiki/ringdom). Each ringdom is different, with its own unique culture, laws, and regulations. The [climate](/wiki/climate) of the ring is defined by two seasons - rainy, with frequent storms and waterfalls, and dry, defined by draughts and dust storms.
 
-The habitable part of Torei covers only a small portion of the planet's surface, with the majority being harsh [wasteland](/wiki/badlands). The terraforming project is struggling to claim this area bit by bit for human settlement.
+Most of the surface of the planet between the equatorial band and the poles is a [harsh wasteland](/wiki/badlands). The terraforming project struggles to claim this area, bit by bit, for human settlement, but it remains a dangerous and inhospitable place.
 
-<!--
-
-The most urbanized spot on the planet is the cluster of towers located at the base of the [space elevator](/wiki/space-elevator), which is the first port of call for any visitor to Torei. The farther one gets from the space elevator, the more rural and relaxed the pace of life becomes.
-
--->
+The most urbanized spot on Torei is located at the base of the planet's single [space elevator](/wiki/space-elevator), which leads up to the space station at the top. The space elevator is the primary means of transportation on and off the planet, and it is used to transport people, goods, and resources to and from the planet's surface.
 
 ## Society
 
-_Learn more: [Toreans](/wiki/torean)_
+<!-- [Slavery](/wiki/slavery) is an accepted and normalized practice on Torei, and is seen by some as a necessary part of Torean way of life. There are different types of slavery, including domestic, agricultural, and industrial slavery, with each form having its own rules and regulations. -->
 
-[Slavery](/wiki/slavery) is an accepted and normalized practice on Torei, and is seen by some as a necessary part of Torean way of life. There are different types of slavery, including domestic, agricultural, and industrial slavery, with each form having its own rules and regulations.
+One of the most notable aspects of Torean society is the prevalence of formal institutionalized [slavery](/wiki/slavery), which is legal and protected by planetary government. Slavery on Torei is not like anything encountered in human history, and is a complex institution that permeates nearly every aspect of society.
 
-Torei is also well-know for its unique blend of technology and extremely sexualized fashion. The planet's most popular clothing material is a type of [laminate](/wiki/laminate) that can be molded into any color or form, and is often used to create skin-tight, full-coverage [suits that cover the entire body from head to toe](/wiki/unisuit).
+There are different types of slavery, including domestic, agricultural, and industrial slavery, with each form having its own rules and regulations. The status of a slave can also vary greatly, with some being treated almost as family members, while others are subject to extreme abuse and cruelty.
+
+Another notable aspect of Torean society is the fact that [women vastly outnumber men on the planet](/wiki/toreans), with the exact reason for this being unknown. This has led to a societal structure where women hold most of the power and influence, with many Torean ringdoms being matriarchal in nature.
+
+Torei is also well-know for its extremely sexualized [fashion](/tag/fashion). The planet's most popular clothing material is a type of [laminate](/wiki/laminate) that can be molded into any color or form, and is often used to create skin-tight, full-coverage [suits](/wiki/unisuit) that cover the entire body from head to toe.
 
 ## Government
 
-Despite the differences in [ringdoms](/wiki/ringdom), all Torean nations have common international institutions known as "ministries". The [Triune Ministries of Torei](/wiki/triune-ministries) are administrative bodies that concern themselves with female affairs, regulation of international slave code, and the punishment of those found in violation of slavery or curfew laws.
+Torei is governed by a complex system of international institutions known as "ministries", which are common to all Torean Ringdoms, despite differences in local management. The [Triune Ministries of Torei](/wiki/triune-ministries) are administrative bodies that coordinate worldwide, and are feared and respected by the population of Torei.
 
-While those ministries have certain degree of autonomy, they are ultimately overseen and regulated by two powerful artificial beings called [Dahom and Mazos](/wiki/ai). They control the weather and climate, manage the production and distribution of resources, and ensure that the economy remains stable and sustainable.
+<!-- Despite the differences in [ringdoms](/wiki/ringdom), all Torean nations have common international institutions known as "ministries". The [Triune Ministries of Torei](/wiki/triune-ministries) are administrative bodies that concern themselves with female affairs, regulation of international slave code, and the punishment of those found in violation of slavery or curfew laws. -->
+
+While those ministries have certain degree of autonomy, they are ultimately overseen and regulated by two powerful artificial beings called [Dahom and Mazos](/wiki/ai). Originally designed to function as a planetary smart system to help manage the terraforming project and other planetary operations, they eventually gained their own will and consciousness, becoming Torean artificial demigods.
 
 ## Technology
 

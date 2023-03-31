@@ -3,27 +3,25 @@ title: Slavery
 tags: ['wiki', 'society']
 ---
 
-**Slavery** on Torei is a complex and multi-faceted institution that permeates nearly every aspect of society. It is a topic of much debate and controversy, both on Torei itself and in the greater intergalactic community. This article will provide an overview of the history and legal status of slavery on Torei.
+**Slavery** is a complex and multi-faceted institution that permeates nearly every aspect of Torean society. It is a topic of much debate and controversy, both on [Torei](/wiki/torei) itself and in the greater intergalactic community.
 
 ## History
 
-The practice of slavery on Torei has a long and complicated history. It is believed that the institution first emerged in the early days of Torean civilization, when the population was still small and resources were scarce. At that time, it was common for powerful individuals and families to acquire and control other people as a means of consolidating their own power and wealth.
+The practice of slavery on Torei has a long and complicated history. It is believed that the institution first emerged in the early days of local civilization, when the population was still small and resources were scarce. At that time, it was common for powerful individuals and families to acquire and control other people as a means of consolidating their own power and wealth.
 
-Over time, slavery became more and more entrenched in Torean society, with the institution becoming an integral part of the culture and the economy. It is estimated that at its peak, as much as 50% of the Torean population was enslaved in some form or another.
+Over time, slavery became more and more entrenched in society, with the institution becoming an integral part of the culture and the economy. It is estimated that at its peak, as much as 50% of the planet population was enslaved in some form or another.
 
-Despite the widespread nature of slavery on Torei, there have always been those who have opposed the practice. Over the centuries, various social and political movements have emerged to fight for the rights of slaves and to push for their emancipation.
+<!-- Despite the widespread nature of slavery on Torei, there have always been those who have opposed the practice. Over the centuries, various social and political movements have emerged to fight for the rights of slaves and to push for their emancipation. -->
 
 In recent years, the practice of slavery on Torei has come under increasing scrutiny from the wider intergalactic community. Many individuals and organizations have called for an end to the practice, citing its inhumane and exploitative nature.
 
 ## Legal Status
 
-Slavery is legal and protected by the planetary government on Torei. The government has established a complex system of laws and regulations governing the practice, which are enforced by the Ministry of Wombs and the Ministry of Truants.
+Slavery is legal and protected by the [planetary government](/wiki/government) on Torei. Under Torean law, slaves are considered to be property, and are therefore subject to the same rules and regulations as any other form of property. Slaves could bought and sold on open markets, and their status can be inherited by their offspring.
 
-Under Torean law, slaves are considered to be property, and are therefore subject to the same rules and regulations as any other form of property. Slaves are bought and sold on open markets, and their status can be inherited by their offspring.
+While the practice of slavery on Torei is completely legal, it is also heavily regulated. Slave owners are required to provide their slaves with basic necessities such as food, shelter, and medical care, and are usually prohibited from engaging in any form of physical or sexual abuse. Additionally, in some ringdoms all slaves are required to wear a specially-designed [collar](/wiki/control-collar) which is designed to monitor their health and ensure their safety.
 
-While the practice of slavery on Torei is legal, it is also heavily regulated. Slave owners are required to provide their slaves with basic necessities such as food, shelter, and medical care, and are prohibited from engaging in any form of physical or sexual abuse. Additionally, in some ringdoms all slaves are required to wear a specially-designed suit known as a "slave suit," which is designed to monitor their health and ensure their safety.
-
-Despite these regulations, many off-worlders and intergalactic organizations continue to condemn the practice of slavery on Torei, arguing that it is inherently immoral and violates basic human rights. Some have even called for a boycott of the planet and its products, in an effort to pressure the Torean government to outlaw the practice.
+Despite these regulations, many [off-worlders](/wiki/off-worlder) and intergalactic organizations continue to condemn the practice of slavery on Torei, arguing that it is inherently immoral and violates basic human rights. Some have even called for a boycott of the planet and its products, in an effort to pressure the Torean government to outlaw the practice.
 
 ## Impact
 

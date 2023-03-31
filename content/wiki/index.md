@@ -24,7 +24,7 @@ Learn more about Torean customs, laws and technologies
 
 [Torei](/wiki/torei) is a remote settlement that orbits a hypervelocity star in the vast intergalactic space between Andromeda and the Milky Way. It is famous for its odd development history, unique culture, and worldwide practice of matriarchy and [chattel slavery](/wiki/slavery).
 
-Whether you're a [visitor to the planet](/wiki/off-worlder) or a [longtime resident](/wiki/torean), this guide is your key to unlocking the secrets of this mysterious planet. Welcome, and enjoy your journey through the wonders of Torei.
+Whether you're a [visitor to the planet](/wiki/off-worlder) or a [longtime resident](/wiki/toreans), this guide is your key to unlocking the secrets of this mysterious planet. Welcome, and enjoy your journey through the wonders of Torei.
 ::
 
 <!-- Geography -->
@@ -51,7 +51,7 @@ Society
 #content
 Torean society is defined by its unique blend of high technology and ancient traditions, and its strict adherence to a hierarchical social structure that revolves around dominance and submission. Slavery is an integral part of Torean culture, and is deeply intertwined with the power dynamics of the society as a whole.
 
-[Toreans](/wiki/torean) &nbsp;|&nbsp;
+[Toreans](/wiki/toreans) &nbsp;|&nbsp;
 [Off-Worlders](/wiki/off-worlder) &nbsp;|&nbsp;
 [Government](/wiki/government) &nbsp;|&nbsp;
 [Slavery](/wiki/slavery)
