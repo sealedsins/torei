@@ -120,7 +120,7 @@ Tell me more about slave suits and how do they look like.
 ```
 
 ```
-Write a Wikipedia article about survival suit. It must include sections "History", "Design & Construction", "Function" and "Controversy".
+Write a Torei Wikipedia article about survival suit. It must include sections "History", "Design & Construction", "Function" and "Controversy".
 ```
 
 ```

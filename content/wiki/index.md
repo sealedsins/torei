@@ -83,6 +83,9 @@ Technology
 Torean technology is highly advanced, with a focus on biotechnology and the creation of implants that enhance physical and mental capabilities. While they may not be as advanced in some areas as the greater human society, Torean biological sciences are unparalleled, resulting in extraordinary longevity and beauty among its inhabitants.
 
 [Control Collar](/wiki/control-collar) &nbsp;|&nbsp;
-[Chastity Belt](/wiki/chastity-belt)
+[Chastity Belt](/wiki/chastity-belt) &nbsp;|&nbsp;
+[Contraceptive Implant](/wiki/contraceptive-implant) &nbsp;|&nbsp;
+[Rainbow Implant](/wiki/rainbow-implant) &nbsp;|&nbsp;
+[Booster Implant](/wiki/booster-implant)
 
 ::

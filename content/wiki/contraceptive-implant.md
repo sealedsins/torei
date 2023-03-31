@@ -1,33 +1,26 @@
 ---
 title: Contraceptive Implant
 tags: ['wiki', 'technology', 'implant']
-# header.image: /img/wiki/implant-hormone.jpg
 ---
 
-**Contraceptive Implant** is a highly advanced and effective form of birth control that is widely used throughout the planet. It is a small, subcutaneous implant that is placed just beneath the skin and releases [hormones](/wiki/hormone-implant) that prevent ovulation and pregnancy.
+**Contraceptive Implant** is a highly advanced and effective form of birth control that is widely used throughout the [planet](/wiki/torei). It is a small, subcutaneous device that is surgically installed into the womb of a female and is designed to prevent pregnancy until it is remotely switched off.
 
-## History
+## Design & Construction
 
-Contraceptive implants were developed in response to the high demand for effective birth control on the planet. Torean society is highly regulated and controlled by the government, and the use of contraception is seen as an essential tool for maintaining social stability.
-
-The first contraceptive implant was developed by the [Ministry of Improvements](/wiki/ministry-of-imporvements), which used its advanced biotech knowledge to create a device that would be both safe and effective. After extensive testing and trials, the implant was approved for use by the government, and it quickly became one of the most popular forms of birth control on the planet.
+The contraceptive implant is a small, flexible device made of a special type of laminate material that is infused with synthetic hormones. The microchip that is embedded within the implant contains highly advanced technology that is able to monitor and regulate the hormone levels of the implant wearer, preventing ovulation and ensuring that the body remains in a non-fertile state.
 
 ## Installation
 
-The process of installing a contraceptive implant is a simple one, and it can be done in just a few minutes by a trained medical professional. The implant itself is a small, flexible rod that is inserted into the upper arm of the patient using a specially designed applicator.
-
-The insertion process is quick and relatively painless, and most patients are able to resume their normal activities immediately afterwards. The implant is typically placed just under the skin, where it remains for several years, slowly releasing hormones that prevent pregnancy.
+The installation process for the tube implant is quick and relatively painless. A trained medical professional inserts the tube into the uterus through the cervix using a special insertion tool. The entire procedure takes only a few minutes, and most women report little to no discomfort.
 
 ## Function
 
-Contraceptive implant works by releasing a steady stream of hormones into the bloodstream. These hormones, typically progesterone, work to prevent ovulation, thereby preventing pregnancy.
+The contraceptive implant works by releasing a small amount of synthetic hormone into the bloodstream over time. This hormone helps to prevent pregnancy by thickening the cervical mucus, which makes it more difficult for sperm to reach and fertilize an egg. Additionally, the hormone can also prevent ovulation from occurring altogether.
 
-Implants are highly effective, with a failure rate of less than 1%, making it one of the most reliable forms of birth control available. Additionally, because the implant is inserted under the skin, it is not affected by other medications or illnesses, making it an ideal option for women who may have difficulty using other forms of birth control.
+One of the most intriguing aspects of the contraceptive implant is the activation signal - and the logic behind it. This signal appears to be triggered by a combination of factors, including the age and health of the implant wearer, as well as their hormonal and metabolic state. The activation signal is so unpredictable that pregnancy is commonly seen as an ["act of god"](/wiki/ai) that cannot be planned for or prevented.
 
-## Side Effects
+## Side effects
 
-While contraceptive implants are generally well-tolerated, it may cause some side effects in some patients. These may include irregular bleeding, headaches, mood changes, weight gain, and acne. However, these side effects are usually mild and tend to resolve over time.
+Like any medical procedure, there are potential side effects associated with the tube implant. These include irregular bleeding, weight gain, and mood changes. However, these side effects are generally mild and resolve on their own over time. In rare cases, more serious side effects may occur, such as infection or perforation of the uterus.
 
-## Availability
-
-Contraceptive implants is provided free of charge to all female citizens of Torei. The government views contraception as an essential tool for maintaining social stability, and so it is heavily subsidized and widely available to all those who need it.
+Persistent reports of pregnancy without any sexual contact with a male, so called "solo-births", have given rise to speculation that the tube implant may contain a cryogenically frozen sperm sample as a fail-safe against the loss of the relatively small male population. However, there is no official confirmation of this theory.
