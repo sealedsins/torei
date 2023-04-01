@@ -1,6 +1,6 @@
 # Laminate Chronicles
 
-[![Pages Deploy](https://github.com/sealedsins/torei/actions/workflows/nuxt.yml/badge.svg)](https://github.com/sealedsins/torei/actions/workflows/nuxt.yml)
+[![License](https://img.shields.io/github/license/sealedsins/torei)](https://github.com/sealedsins/torei/blob/master/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/sealedsins/torei)](https://github.com/sealedsins/torei/commits/master) [![Pages Deploy](https://img.shields.io/github/actions/workflow/status/sealedsins/torei/nuxt.yml)](https://github.com/sealedsins/torei/actions/workflows/nuxt.yml)
 
 If you are planning to add new content to this project:
 
