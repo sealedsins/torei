@@ -30,9 +30,7 @@ The most urbanized spot on Torei is located at the base of the planet's single [
 
 <!-- [Slavery](/wiki/slavery) is an accepted and normalized practice on Torei, and is seen by some as a necessary part of Torean way of life. There are different types of slavery, including domestic, agricultural, and industrial slavery, with each form having its own rules and regulations. -->
 
-One of the most notable aspects of Torean society is the prevalence of formal institutionalized [slavery](/wiki/slavery), which is legal and protected by planetary government. Slavery on Torei is not like anything encountered in human history, and is a complex institution that permeates nearly every aspect of society.
-
-There are different types of slavery, including domestic, agricultural, and industrial slavery, with each form having its own rules and regulations. The status of a slave can also vary greatly, with some being treated almost as family members, while others are subject to extreme abuse and cruelty.
+One of the most notable aspects of Torean society is the prevalence of formal institutionalized [slavery](/wiki/slavery), which is legal and protected by planetary government. The status of a slave can also vary greatly, with some being treated almost as family members, while others are subject to extreme abuse and cruelty.
 
 Another notable aspect of Torean society is the fact that [women vastly outnumber men on the planet](/wiki/toreans), with the exact reason for this being unknown. This has led to a societal structure where women hold most of the power and influence, with many Torean ringdoms being matriarchal in nature.
 
