@@ -3,6 +3,7 @@ title: Wiki
 navigation.title: Wiki
 navigation.order: 3
 template: null
+description: Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in a enigmatic world where everything is possible.
 ---
 
 ::wiki-header{icon="fa-solid fa-lines-leaning"}

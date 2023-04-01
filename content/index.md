@@ -18,7 +18,7 @@ Welcome to Torei - a twisted world ruled by biomechanical demigods, matriarchy a
 Wiki
 
 #content
-Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in a world without restrictions or limitations.
+Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in a enigmatic world where everything is possible.
 ::
 
 ::wiki-featured{to="/stories" icon="fa-solid fa-book"}

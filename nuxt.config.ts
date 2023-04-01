@@ -1,8 +1,7 @@
+import { NuxtConfig } from '@nuxt/schema';
 import { resolve } from 'node:path';
 
-type PartialNuxtConfig = Partial<Parameters<typeof defineNuxtConfig>[0]>;
-
-const contentSettings: PartialNuxtConfig = {
+const contentSettings: NuxtConfig = {
 	modules: ['@nuxt/content'],
 	content: {
 		documentDriven: true,
@@ -34,7 +33,7 @@ const contentSettings: PartialNuxtConfig = {
 	},
 };
 
-const fontawesomeSettings: PartialNuxtConfig = {
+const fontawesomeSettings: NuxtConfig = {
 	css: ['@fortawesome/fontawesome-svg-core/styles.css', '@/app.scss'],
 	build: {
 		transpile: ['@fortawesome/vue-fontawesome'],
@@ -46,11 +45,17 @@ export default defineNuxtConfig({
 	...fontawesomeSettings,
 	srcDir: 'src',
 	ssr: true,
+	runtimeConfig: {
+		public: {
+			canonicalHost: 'localhost:3000',
+			canonicalProtocol: 'http',
+		},
+	},
 	app: {
 		head: {
 			charset: 'utf-8',
 			viewport: 'width=device-width, initial-scale=1.0, viewport-fit=cover',
-			titleTemplate: '%s | Laminate Chronicles',
+			titleTemplate: `%s | Laminate Chronicles`,
 		},
 	},
 	vite: {
