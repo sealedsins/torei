@@ -9,10 +9,6 @@ const og = computed(() => ({
 	image: page.value.image && canonical(useAsset(page.value.image)),
 	url: canonical(route.fullPath),
 }));
-
-onMounted(() => {
-	setTimeout(() => window.scrollTo(0, -100));
-});
 </script>
 
 <template>
