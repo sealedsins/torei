@@ -1,6 +1,10 @@
 import { NuxtConfig } from '@nuxt/schema';
 import { resolve } from 'node:path';
 
+// Leet: TOREI -> 70R31 -> 7031
+// I need to explicitly set this so it would not interfere with my work project.
+const PORT = parseInt(process.env.PORT || '7031');
+
 const contentSettings: NuxtConfig = {
 	modules: ['@nuxt/content'],
 	content: {
@@ -45,9 +49,12 @@ export default defineNuxtConfig({
 	...fontawesomeSettings,
 	srcDir: 'src',
 	ssr: true,
+	devServer: {
+		port: PORT,
+	},
 	runtimeConfig: {
 		public: {
-			canonicalHost: 'localhost:3000',
+			canonicalHost: `localhost:${PORT}`,
 			canonicalProtocol: 'http',
 		},
 	},
