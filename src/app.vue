@@ -73,9 +73,6 @@ const navigationExtra = [
 </template>
 
 <style scoped lang="scss">
-$content-width: 800px;
-$content-padding: 1em;
-
 .nav {
 	position: sticky;
 	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.125);
@@ -87,12 +84,12 @@ $content-padding: 1em;
 
 	$background-blur: 15px;
 	@supports (backdrop-filter: blur($background-blur)) {
-		background: transparentize($color-background-header, 0.1);
+		background: transparentize($color-panel, 0.1);
 		backdrop-filter: blur($background-blur);
 	}
 
 	@supports not (backdrop-filter: blur($background-blur)) {
-		background: $color-background-header;
+		background: $color-panel;
 	}
 
 	@media print {
@@ -167,12 +164,12 @@ $content-padding: 1em;
 }
 
 .main {
-	padding-right: env(safe-area-inset-right);
-	padding-left: env(safe-area-inset-left);
+	padding: env(safe-area-inset-top) env(safe-area-inset-right)
+		env(safe-area-inset-bottom) env(safe-area-inset-left);
 
 	&__inner {
 		max-width: $content-width;
-		padding: ($content-padding * 1.9) ($content-padding);
+		padding: ($content-padding * 1.6) ($content-padding);
 		margin: 0 auto;
 
 		@media (max-width: $breakpoint-mobile) {

@@ -28,7 +28,6 @@ defineProps<{ icon?: string; to?: string }>();
 <style scoped lang="scss">
 .wiki-featured {
 	break-inside: avoid;
-	margin: 2em 0;
 
 	&__header {
 		display: flex;

@@ -9,7 +9,6 @@ const contentSettings: NuxtConfig = {
 	modules: ['@nuxt/content'],
 	content: {
 		documentDriven: true,
-		ignores: ['assets', 'drafts'],
 		sources: {
 			site: {
 				driver: 'fs',
@@ -38,7 +37,7 @@ const contentSettings: NuxtConfig = {
 };
 
 const fontawesomeSettings: NuxtConfig = {
-	css: ['@fortawesome/fontawesome-svg-core/styles.css', '@/app.scss'],
+	css: ['@fortawesome/fontawesome-svg-core/styles.css'],
 	build: {
 		transpile: ['@fortawesome/vue-fontawesome'],
 	},
@@ -65,11 +64,15 @@ export default defineNuxtConfig({
 			titleTemplate: `%s | Laminate Chronicles`,
 		},
 	},
+	css: [...fontawesomeSettings.css!, '@/styles/global.scss'],
 	vite: {
 		css: {
 			preprocessorOptions: {
 				scss: {
-					additionalData: '@import "@/app.variables.scss";',
+					additionalData: `
+						@import "@/styles/vars.scss";
+						@import "@/styles/mixins.scss";
+					`,
 				},
 			},
 		},

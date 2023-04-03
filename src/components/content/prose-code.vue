@@ -24,13 +24,14 @@ const onCopy = () => {
 <style scoped lang="scss">
 .prompt {
 	position: relative;
-	background: $color-background-panel;
-	border-radius: 0.75em;
+	background: $color-panel;
 	padding: 1em 2em;
 	margin: 2em 0;
 
+	@include notch($bottom-right: 1em);
+
 	@media (max-width: $breakpoint-mobile) {
-		padding: 0.5em 1em;
+		padding: 0.5em 1.25em;
 	}
 
 	:deep(pre) {
@@ -46,14 +47,15 @@ const onCopy = () => {
 		cursor: pointer;
 		position: absolute;
 		padding: 0.85em;
+		right: -0.25em;
+		top: -0.25em;
 		opacity: 0;
-		right: 0;
-		top: 0;
 
 		@media (max-width: $breakpoint-mobile) {
-			right: -0.35em;
-			top: -0.35em;
-			opacity: 1;
+			font-size: 0.85em;
+			right: -0.5em;
+			top: -0.65em;
+			opacity: 0.25;
 		}
 
 		&:hover {

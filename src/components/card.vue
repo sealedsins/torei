@@ -21,16 +21,16 @@ defineProps<{ to?: string }>();
 <style scoped lang="scss">
 .card {
 	display: block;
-	box-sizing: border-box;
 	transition: background 0.25s;
-	background: lighten($color-background-panel, 0.1);
-	color: $color-text-medium;
-	border-radius: 0.35em;
-	margin: 2.25em 0;
-	padding: 1em;
+	background: lighten($color-panel, 0.1);
+	color: $color-text;
+	padding: $content-padding * 1.25;
+	margin: $content-padding * 2.1 0;
 
 	overflow-x: hidden;
 	overflow-y: auto;
+
+	@include notch($bottom-right: 1em);
 
 	@media print {
 		color: inherit;
@@ -41,8 +41,12 @@ defineProps<{ to?: string }>();
 
 	@at-root {
 		a#{&}:hover {
-			background: transparentize($color-background-panel, 0.65);
+			background: lighten($color-panel, 2.5%);
 		}
+	}
+
+	&:last-child {
+		margin-bottom: 0;
 	}
 
 	:deep(*):first-child {
@@ -56,7 +60,7 @@ defineProps<{ to?: string }>();
 	&__title {
 		font-weight: bolder;
 		font-size: 1.15em;
-		color: $color-text-high;
+		color: $color-primary;
 		margin-bottom: 0.35em;
 		margin-top: 0;
 
@@ -66,7 +70,7 @@ defineProps<{ to?: string }>();
 	}
 
 	&__subtitle {
-		color: $color-text-medium;
+		color: $color-text;
 		margin-bottom: 0.65em;
 		margin-top: -0.55em;
 		font-size: 0.95em;

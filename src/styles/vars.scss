@@ -1,0 +1,19 @@
+// Global style variables.
+$font-weight: 300;
+$font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans',
+	Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+$font-size: 16px;
+
+$breakpoint-tablet: 768px;
+$breakpoint-mobile: 480px;
+
+$content-width: 800px;
+$content-padding: 1em;
+
+$color-primary: #fff;
+$color-background: #121212;
+$color-panel: #17171a;
+
+$color-text: darken($color-primary, 50%);
+$color-link: darken($color-primary, 10%);
+$color-link-hover: $color-text;

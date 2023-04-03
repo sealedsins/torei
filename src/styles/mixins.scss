@@ -1,0 +1,17 @@
+@mixin notch(
+	$top-left: 0px,
+	$top-right: 0px,
+	$bottom-right: 0px,
+	$bottom-left: 0px
+) {
+	clip-path: polygon(
+		0% $top-left,
+		$top-left 0%,
+		calc(100% - $top-right) 0%,
+		100% $top-right,
+		100% calc(100% - $bottom-right),
+		calc(100% - $bottom-right) 100%,
+		$bottom-left 100%,
+		0 calc(100% - $bottom-left)
+	);
+}

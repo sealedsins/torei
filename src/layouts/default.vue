@@ -59,11 +59,7 @@ const og = computed(() => ({
 					</NuxtLink>
 				</div>
 			</div>
-			<img
-				v-if="page.image"
-				:src="useAsset(page.image)"
-				class="content__image"
-			/>
+			<ProseImg v-if="page.image" class="content__image" :src="page.image" />
 			<div class="content__body">
 				<slot></slot>
 			</div>
