@@ -21,12 +21,11 @@ defineProps<{ to?: string }>();
 <style scoped lang="scss">
 .card {
 	display: block;
+	color: $color-text;
 	transition: background 0.25s;
 	background: lighten($color-panel, 0.1);
-	color: $color-text;
 	padding: $content-padding * 1.25;
 	margin: $content-padding * 2.1 0;
-
 	overflow-x: hidden;
 	overflow-y: auto;
 
@@ -40,8 +39,14 @@ defineProps<{ to?: string }>();
 	}
 
 	@at-root {
-		a#{&}:hover {
+		a#{&}:active {
 			background: lighten($color-panel, 2.5%);
+		}
+
+		@media (hover: hover) {
+			a#{&}:hover {
+				background: lighten($color-panel, 2.5%);
+			}
 		}
 	}
 
