@@ -1,6 +1,7 @@
 ---
 title: Laminate Bed
 tags: ['wiki', 'technology']
+image: /assets/wiki/laminate-bed.jpg
 ---
 
 **Laminate bed** is a unique and versatile piece of technology that is widely used on [Torei](/wiki/torei). This bed is made entirely of [laminate](/wiki/laminate) and is designed to completely encase the occupant within two sheets, creating a vacuum-sealed environment that offers a range of applications.
