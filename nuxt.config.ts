@@ -53,6 +53,7 @@ export default defineNuxtConfig({
 	},
 	runtimeConfig: {
 		public: {
+			gtm: '',
 			canonicalHost: `localhost:${PORT}`,
 			canonicalProtocol: 'http',
 		},

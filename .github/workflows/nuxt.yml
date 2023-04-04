@@ -60,6 +60,7 @@ jobs:
         env:
           # Beta feature. Read more:
           # https://docs.github.com/en/actions/learn-github-actions/variables
+          NUXT_PUBLIC_GTM: ${{ vars.GTM }}
           NUXT_PUBLIC_CANONICAL_PROTOCOL: ${{ vars.CANONICAL_PROTOCOL }}
           NUXT_PUBLIC_CANONICAL_HOST: ${{ vars.CANONICAL_HOST }}
           NUXT_APP_BASE_URL: ${{ vars.BASE_URL }}
