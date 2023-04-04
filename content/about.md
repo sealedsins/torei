@@ -2,12 +2,13 @@
 title: About
 navigation.title: About
 navigation.order: 2
-# image: /assets/wiki/abstract.jpg
+tags: ['meta']
+image: /assets/wiki/abstract.jpg
 ---
 
 This project began as a small experiment to test the limits of modern language models. The objective was to create a sustainable world-building engine that could assist in crafting stories and fictional articles by blending lore information from multiple sources.
 
-The world of Torei, with its unique culture, technology and fashion, was the perfect testing ground for this project. By feeding in data about Torean society, fashion, and government, an advanced neural network was able to craft stories and lore information that are realistic and immersive, allowing readers to get a sense of what life might be like on this distant planet.
+The world of [Torei](/wiki), with its unique culture, technology and fashion, was the perfect testing ground for this project. By feeding in data about Torean society, fashion, and government, an advanced neural network was able to craft stories and lore information that are realistic and immersive, allowing readers to get a sense of what life might be like on this distant planet.
 
 The result was this site, a collection of stories and fictional encyclopedia articles that showcase the incredible potential of recent language models to create rich and immersive fictional worlds.
 

@@ -3,7 +3,7 @@ title: Wiki
 navigation.title: Wiki
 navigation.order: 3
 template: null
-description: Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in a enigmatic world where everything is possible.
+description: Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in the complex world of dominance and submission.
 ---
 
 ::wiki-header{icon="fa-solid fa-lines-leaning"}
@@ -71,7 +71,8 @@ Torean fashion is defined by its unique use of laminate, a stretchy and durable 
 [Unisuit](/wiki/unisuit) &nbsp;|&nbsp;
 [Survival Suit](/wiki/survival-suit) &nbsp;|&nbsp;
 [Slave Suit](/wiki/slave-suit) &nbsp;|&nbsp;
-[Prison Suit](/wiki/prison-suit)
+[Prison Suit](/wiki/prison-suit) &nbsp;|&nbsp;
+[Skinsuit](/wiki/skinsuit)
 ::
 
 <!-- Technology -->
@@ -85,6 +86,7 @@ Torean technology is highly advanced, with a focus on biotechnology and the crea
 
 [Control Collar](/wiki/control-collar) &nbsp;|&nbsp;
 [Chastity Belt](/wiki/chastity-belt) &nbsp;|&nbsp;
+[Laminate Bed](/wiki/laminate-bed) &nbsp;|&nbsp;
 [Contraceptive Implant](/wiki/contraceptive-implant) &nbsp;|&nbsp;
 [Rainbow Implant](/wiki/rainbow-implant) &nbsp;|&nbsp;
 [Booster Implant](/wiki/booster-implant)

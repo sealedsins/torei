@@ -3,7 +3,7 @@ title: Space Elevator
 tags: ['wiki', 'geography', 'technology']
 ---
 
-**Space elevator** is a massive transport infrastructure, linking its surface with the space above. It is one of the most significant structures on [Tore](/wiki/torei), serving as the primary means of transportation for goods and people between the planet's surface and space. It's the only space elevator on the planet, and one of the few in the known universe.
+**Space elevator** is a massive transport infrastructure, linking its surface with the space above. It is one of the most significant structures on [Torei](/wiki/torei), serving as the primary means of transportation for goods and people between the planet's surface and space. It's the only space elevator on the planet, and one of the few in the known universe.
 
 ## Design & Construction
 

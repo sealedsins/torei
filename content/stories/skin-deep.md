@@ -3,7 +3,7 @@ title: Skin Deep
 author.name: Sealed Sins
 author.link: https://twitter.com/sealedsins
 tags: ['story']
-description: Every year, Victoria took Lisa to the doctor for a full check-up. She was known for being obedient and compliant servant, always eager to please her mistress in any way possible. Victoria knew that well, so she made sure to take good care of her.
+description: In a world where perfection is the norm, Lisa's stunning appearance and obedient compliance to her Mistress hides a deeper truth. As she undergoes a routine check-up, Lisa must confront the artificial nature of her existence and the question of what truly defines her as an individual.
 ---
 
 Lisa stepped out of the car, radiating pride in her appearance.

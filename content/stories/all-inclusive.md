@@ -3,7 +3,7 @@ title: All-inclusive
 author.name: Sealed Sins
 author.link: https://twitter.com/sealedsins
 tags: ['story']
-description: Hours later, Eve began to stir. She was disoriented at first, unsure of where she was or how much time had passed. It was dark in her cell, and the only sound was the low hum of machinery somewhere in the distance.
+description: Eve's dream trip to Torei takes a dark turn when a wild night of hedonistic pleasure leads her to a brutal punishment that leaves her trapped in a tight laminate prison, completely at the mercy of the guards.
 ---
 
 Eve had been dreaming of visiting for months.
