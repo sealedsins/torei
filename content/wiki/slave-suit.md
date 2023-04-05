@@ -4,7 +4,7 @@ tags: ['wiki', 'fashion']
 image: /assets/wiki/slave-suit.jpg
 ---
 
-**Slave suit** is a distinctive garment worn by [slaves](/wiki/slavery) on the planet Torei. Made of a thin and durable layer of [laminate](/wiki/laminate), the suit is designed to be skin-tight and cover the wearer's entire body from neck to toes.
+**Slave suit** is a distinctive garment worn by [slaves](/wiki/slavery) on the planet Torei. Made of a thin and durable layer of [laminate](/wiki/laminate), the suit is designed to be skin-tight and cover the wearer's entire body from head to toes.
 
 ## History
 

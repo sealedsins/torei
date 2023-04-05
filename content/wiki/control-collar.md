@@ -4,7 +4,7 @@ tags: ['wiki', 'technology']
 image: /assets/wiki/control-collar.jpg
 ---
 
-**Control collar** is a type of wearable tracking device commonly used on [Torei](/wiki/torei).
+**Control collar** is a type of wearable tracking device commonly used on [Torei](/wiki/torei). These collars are typically worn by slaves and prison inmates, ensuring that they remain under constant surveillance and control.
 
 ## Design & Construction
 
