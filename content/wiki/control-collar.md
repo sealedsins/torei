@@ -1,17 +1,20 @@
 ---
 title: Control Collar
 tags: ['wiki', 'technology']
+image: /assets/wiki/control-collar.jpg
 ---
 
-**Control collar** is a type of wearable tracking device commonly used on [Torei](/wiki/torei). It is most commonly used on [slaves](/wiki/slavery) and prisoners, but can also be used on free individuals in certain circumstances.
+**Control collar** is a type of wearable tracking device commonly used on [Torei](/wiki/torei).
 
 ## Design & Construction
 
-Control collar are typically made of a polished stainless steel. They are designed to fit snugly around the wearer's neck, with a locking mechanism that prevents it from being removed without the proper authorization. The collar is usually equipped with a variety of sensors and communication devices, allowing it to track information about the wearer's location and vital signs.
+Control collars are typically made of a polished stainless steel. They are designed to fit snugly around the wearer's neck, with a locking mechanism that prevents it from being removed without the proper authorization. The collar is usually equipped with a variety of sensors and communication devices, allowing it to track information about the wearer's location and vital signs.
+
+The design of the control collar is intended to be as unobtrusive as possible, while still providing maximum control over the wearer. The collar is usually simple in appearance, with no unnecessary adornments or decorations. The collar is also designed to be durable and long-lasting, able to withstand the wear and tear of everyday use.
 
 ## Function
 
-The primary function of a control collar is is to monitor and control the movements of individuals wearing it. It can be programmed to restrict the wearer's movement within a certain area, or to allow them limited freedom of movement within a specified range. It can also be used to administer shocks or other punishments in response to disobedience or other infractions.
+The primary function of a control collar is to monitor its wearer. It can be programmed to restrict their movement within a certain area, or to allow them limited freedom of movement within a specified range. It can also be used to administer shocks or other punishments in response to disobedience or other infractions.
 
 Control collars are mandatory for slaves in many [ringdoms](/wiki/ringdom). In addition to tracking the movements of the wearer, the collar can also be used to monitor their vital signs and other important health data. This allows for early detection and treatment of medical issues, and can help to prevent serious health problems from developing.
 
