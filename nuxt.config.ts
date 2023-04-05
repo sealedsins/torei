@@ -9,6 +9,7 @@ const contentSettings: NuxtConfig = {
 	modules: ['@nuxt/content'],
 	content: {
 		documentDriven: true,
+		ignores: ['drafts'],
 		sources: {
 			site: {
 				driver: 'fs',

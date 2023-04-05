@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import ogFallback from '~/assets/logo-og.png';
+
 const canonical = useCanonicalURL();
 const { page } = useContent();
 const route = useRoute();
@@ -36,7 +38,11 @@ const og = computed(() => ({
 			<Meta name="og:title" :content="og.title" />
 			<Meta name="og:description" :content="og.description" />
 			<Meta name="og:url" :content="og.url" />
-			<template v-if="og.image">
+			<template v-if="!og.image">
+				<Meta property="og:image" :content="canonical(ogFallback)" />
+				<Meta name="og:image" :content="canonical(ogFallback)" />
+			</template>
+			<template v-else>
 				<Meta property="og:image" :content="og.image" />
 				<Meta name="og:image" :content="og.image" />
 				<Meta name="twitter:card" content="summary_large_image" />
