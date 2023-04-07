@@ -11,8 +11,7 @@ defineProps<{ to?: string }>();
 		<div v-if="$slots.subtitle" class="card__subtitle">
 			<slot name="subtitle"></slot>
 		</div>
-		<div class="card__body">
-			<slot name="content"></slot>
+		<div class="card__content">
 			<slot></slot>
 		</div>
 	</component>
@@ -20,16 +19,18 @@ defineProps<{ to?: string }>();
 
 <style scoped lang="scss">
 .card {
+	@include notch($bottom-right: 1em);
+
 	display: block;
 	color: $color-text;
 	transition: background 0.25s;
 	background: lighten($color-panel, 0.1);
-	padding: $content-padding * 1.25;
 	margin: $content-padding * 2.1 0;
 	overflow-x: hidden;
 	overflow-y: auto;
 
-	@include notch($bottom-right: 1em);
+	padding: $content-padding * 1.25 $content-padding * 1.25 $content-padding *
+		1.45 $content-padding * 1.25;
 
 	@media print {
 		color: inherit;
@@ -54,11 +55,11 @@ defineProps<{ to?: string }>();
 		margin-bottom: 0;
 	}
 
-	:deep(*):first-child {
+	:deep(:first-child) {
 		margin-top: 0;
 	}
 
-	:deep(*):last-child {
+	:deep(:last-child) {
 		margin-bottom: 0;
 	}
 

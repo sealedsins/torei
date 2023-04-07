@@ -23,12 +23,12 @@ const onCopy = () => {
 
 <style scoped lang="scss">
 .prompt {
+	@include notch($bottom-right: 1em);
+
 	position: relative;
 	background: $color-panel;
 	padding: 1em 2em;
 	margin: 2em 0;
-
-	@include notch($bottom-right: 1em);
 
 	@media (max-width: $breakpoint-mobile) {
 		padding: 0.5em 1.25em;

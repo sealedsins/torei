@@ -20,7 +20,7 @@ defineProps<{ icon?: string; img?: string }>();
 <style scoped lang="scss">
 .wiki-header {
 	display: flex;
-	margin-bottom: -0.25em;
+	margin-bottom: $content-padding * 1.9;
 	flex-direction: row;
 	align-items: stretch;
 	text-align: left;

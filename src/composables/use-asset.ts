@@ -4,6 +4,7 @@ const assets = import.meta.glob('~/assets/**/*', {
 });
 
 export const useAsset = (src: string) => {
+	src = src.replace(/^~/i, ''); // Remove '~ at the start of the path'.
 	return assets[src]?.toString() || src;
 };
 

@@ -12,12 +12,6 @@ Encyclopedia of Torei
 
 #subtitle
 Learn more about Torean customs, laws and technologies
-
-<!-- Learn more about a planet ruled by Biomechanical Demigods, Matriarchy and Laminate Fashion -->
-<!-- A place where technology meets temptation -->
-<!-- World Ruled by Biomechanical Demigods, Matriarchy, and Laminate Fashion -->
-<!-- Your ultimate Torean guide -->
-
 ::
 
 ::card
@@ -34,7 +28,7 @@ Whether you're a [visitor to the planet](/wiki/off-worlder) or a [longtime resid
 #title
 Geography
 
-#content
+#default
 Torei is a planet known for its harsh and unforgiving geography, with most of its surface covered by barren badlands. The habitable regions are concentrated around the equator, where a narrow band of fertile land allows for the growth of crops and the establishment of cities.
 
 [Planet](/wiki/torei) &nbsp;|&nbsp;
@@ -49,7 +43,7 @@ Torei is a planet known for its harsh and unforgiving geography, with most of it
 #title
 Society
 
-#content
+#default
 Torean society is defined by its unique blend of high technology and ancient traditions, and its strict adherence to a hierarchical social structure that revolves around dominance and submission. Slavery is an integral part of Torean culture, and is deeply intertwined with the power dynamics of the society as a whole.
 
 [Toreans](/wiki/toreans) &nbsp;|&nbsp;
@@ -64,7 +58,7 @@ Torean society is defined by its unique blend of high technology and ancient tra
 #title
 Fashion
 
-#content
+#default
 Torean fashion is defined by its unique use of laminate, a stretchy and durable material that can be molded into any form or color. The majority of clothing on Torei is made of this material, with skin-tight garments being particularly popular. Bondage equipment is also widely used in Torean fashion, indicating social status and adding to the overall aesthetic.
 
 [Laminate](/wiki/laminate) &nbsp;|&nbsp;
@@ -81,7 +75,7 @@ Torean fashion is defined by its unique use of laminate, a stretchy and durable 
 #title
 Technology
 
-#content
+#default
 Torean technology is highly advanced, with a focus on biotechnology and the creation of implants that enhance physical and mental capabilities. While they may not be as advanced in some areas as the greater human society, Torean biological sciences are unparalleled, resulting in extraordinary longevity and beauty among its inhabitants.
 
 [Control Collar](/wiki/control-collar) &nbsp;|&nbsp;

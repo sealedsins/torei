@@ -14,5 +14,6 @@ defineProps<{
 <style scoped lang="scss">
 .prose-img {
 	@include notch($bottom-right: 1em, $top-left: 1em);
+	margin: ($content-padding - 1em) 0;
 }
 </style>
