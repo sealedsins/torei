@@ -5,6 +5,9 @@ const onClick = () => navigateTo(props.to, { external: true });
 
 <template>
 	<div class="card" :role="to && 'link'" @click="onClick">
+		<NuxtLink v-if="to" :to="to" hidden>
+			<!-- Nuxt Crawler Fix -->
+		</NuxtLink>
 		<div v-if="$slots.title" class="card__title">
 			<slot name="title"></slot>
 		</div>
