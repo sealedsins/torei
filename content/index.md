@@ -13,7 +13,7 @@ Laminate Chronicles
 Welcome to Torei - a twisted world ruled by biomechanical demigods, matriarchy and laminate fashion
 ::
 
-::wiki-featured{to="/wiki" icon="fa-solid fa-star"}
+::wiki-featured{to="/wiki/laminate-bed" icon="fa-solid fa-star"}
 #title
 Featured
 
