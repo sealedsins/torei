@@ -1,10 +1,10 @@
 <script setup lang="ts">
-const NuxtLink = resolveComponent('NuxtLink');
-defineProps<{ to?: string }>();
+const props = defineProps<{ to?: string }>();
+const onClick = () => navigateTo(props.to, { external: true });
 </script>
 
 <template>
-	<component class="card" :is="to ? NuxtLink : 'div'" :href="to">
+	<div class="card" :role="to && 'link'" @click="onClick">
 		<div v-if="$slots.title" class="card__title">
 			<slot name="title"></slot>
 		</div>
@@ -14,7 +14,7 @@ defineProps<{ to?: string }>();
 		<div class="card__content">
 			<slot></slot>
 		</div>
-	</component>
+	</div>
 </template>
 
 <style scoped lang="scss">
@@ -39,20 +39,13 @@ defineProps<{ to?: string }>();
 		padding: 0;
 	}
 
-	@at-root {
-		a#{&}:active {
-			background: lighten($color-panel, 2.5%);
-		}
-
-		@media (hover: hover) {
-			a#{&}:hover {
-				background: lighten($color-panel, 2.5%);
-			}
-		}
+	&[role='link'] {
+		cursor: pointer;
 	}
 
-	&:last-child {
-		margin-bottom: 0;
+	&[role='link']:hover,
+	&[role='link']:active {
+		background: lighten($color-panel, 2.5%);
 	}
 
 	:deep(:first-child) {
