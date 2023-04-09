@@ -3,6 +3,7 @@ title: Home
 navigation.title: Home
 navigation.order: 1
 template: null
+description: Welcome to Torei - a twisted world ruled by biomechanical demigods, matriarchy and laminate fashion.
 ---
 
 ::wiki-header{img="/assets/logo-tilted.png"}
@@ -33,13 +34,15 @@ It is designed to provide a comfortable and secure environment for the occupant.
 Wiki
 
 #default
-Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in the complex world of dominance and submission.
+Discover the wonders of Torei with our comprehensive wiki. Explore the planet's unique government structure, laminate-based fashion, and complex institution of formal institutionalized slavery that permeates nearly every aspect of society.
 ::
+
+<!-- Discover the secrets of Torei and delve into its intriguing culture with Encyclopedia of Torei. Explore the fascinating history of this distant planet, learn about its unique fashion and institutions, and immerse yourself in the complex world of dominance and submission. -->
 
 ::wiki-featured{to="/stories" icon="fa-solid fa-book"}
 #title
 Stories
 
 #default
-Indulge in the world of Torean Stories and experience the thrill of dominance-submission relationships and institutionalized slavery that are the norm on Torei. Immerse yourself in the planet's bizarre history and explore the limits of human desire.
+Indulge in the dark and alluring world of Torean fiction with our collection of stories. Immerse yourself in the complex and intricate world of laminate culture, where the line between love and cruelty is often blurred.
 ::
