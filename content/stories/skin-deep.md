@@ -1,8 +1,8 @@
 ---
 title: Skin Deep
+tags: ['story', 'story:skinsuit']
 author.name: Sealed Sins
 author.link: https://twitter.com/sealedsins
-tags: ['story']
 description: In a world where perfection is the norm, Lisa's stunning appearance and obedient compliance to her Mistress hides a deeper truth. As she undergoes a routine check-up, Lisa must confront the artificial nature of her existence and the question of what truly defines her as an individual.
 ---
 

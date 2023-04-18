@@ -14,19 +14,21 @@ Laminate Chronicles
 Welcome to Torei - a twisted world ruled by biomechanical demigods, matriarchy and laminate fashion
 ::
 
-::wiki-featured{to="/wiki/laminate-bed" icon="fa-solid fa-star"}
+::wiki-featured{to="/stories/sealed-away" icon="fa-solid fa-star"}
 #title
 Featured
 
 #image
-![Laminate Bed](/assets/wiki/laminate-bed.jpg)
+![Laminate Bed](/assets/stories/sealed-away.jpg)
 
 #default
-**Laminate bed** is a unique and versatile piece of technology that is widely used on Torei. This bed is made entirely of laminate and is designed to completely encase the occupant within two sheets, creating a vacuum-sealed environment that offers a range of applications.
+Althea stood before the massive black box with the "Succubus Technologies" label, heart racing with anticipation. She had been waiting months for this moment, and now it was finally here. She took a deep breath and lifted the lid, revealing the contents inside.
 
-It is designed to provide a comfortable and secure environment for the occupant. When fully sealed, it completely encases the occupant within two laminate sheets, which helps to protect the occupant from external factors such as dust or air pollution. The bed is typically equipped with a breath tube, but in some cases it may be fitted with integrated catheters, ensuring the occupant's comfort and safety for a long-term use.
+The skin in the box was a deep, rich scarlet, and as Althea gazed upon it, she was struck by how lifelike it looked. The horns on the headpiece were short and sharp, and the long, tapered tail snaked around the legs of the suit in a sinuous curve. The material shimmered in the light, appearing as if it were almost alive.
 
-[Continue Reading...](/wiki/laminate-bed)
+Althea's hands trembled as she reached into the box, running her fingers over the smooth, stretchy material. The suit felt cool and supple against her skin, sending a shiver of excitement down her spine. She marveled at the suit's intricate design, admiring the way the red material seemed to glow in the dim light of her apartment.
+
+[Continue Reading...](/story/sealed-away)
 ::
 
 ::wiki-featured{to="/wiki" icon="fa-solid fa-lines-leaning"}
