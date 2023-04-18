@@ -75,9 +75,12 @@ const og = computed(() => ({
 
 <style scoped lang="scss">
 .content {
-	&__image,
 	&__header + &__body {
 		margin-top: 1.5em;
+	}
+
+	&__image {
+		margin-top: 1.75em;
 	}
 
 	&__title {
