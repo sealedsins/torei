@@ -27,7 +27,7 @@ She carefully glided the suit up over her thighs, she felt it mould itself to he
 
 As she pulled the skinsuit up over her breasts, Althea gasped in amazement. The material clung to her curves, enhancing her natural shape and making her feel more powerful and alluring than ever before. She felt a thrill course through her as she felt the material slide over her nipples, sending jolts of electricity through her body.
 
-Reaching the end of the attached gloves, Althea paused to admire herself in the mirror. The suit had completely transformed her body below the neck, leaving her feeling like a being from another dimension. She ran her hands over the smooth surface of the suit, feeling the way it seemed to merge with her skin.
+Reaching the end of the attached gloves, Althea paused to admire herself in the wall mirror. The suit had completely transformed her body below the neck, leaving her feeling like a being from another dimension. She ran her hands over the smooth surface of the suit, feeling the way it seemed to merge with her skin.
 
 Finally, she slid the mask of the suit up over her head, feeling it conform perfectly to her face and neck. The cool, smooth material caressed her cheeks and chin, and she shivered as she felt it slide over her lips, sealing her mouth in a tight, sensual embrace. With one last deep breath, she pulled up the back zipper, encasing herself inside the suit.
 
@@ -69,7 +69,7 @@ She tried to scream, but her voice was silenced by the darkness, and she felt he
 
 ---
 
-Suddenly, Althea was yanked back into consciousness, her eyes snapping open as she gasped for breath. She was lying on the bed, her body still clad in the tight laminate skin.
+As morning light filtered into the room, Althea was yanked back into consciousness, her eyes snapping open as she gasped for breath. She was lying on the bed, her body still clad in the tight laminate skin.
 
 Althea's heart was pounding in her chest as she tried to make sense of what had just happened. The dream had felt so real, so vivid - she could still feel the dark, wriggling shapes crawling over her skin. She shuddered at the memory, feeling a cold sweat covering her body underneath a suit.
 
@@ -83,41 +83,49 @@ As she lay there, Althea realized that she had lost track of time. She had no id
 
 Althea reached for the back zipper of her suit, but to her surprise, it was gone. The material seemed to have sealed itself shut, as if it had merged with her skin. She tried to pry it open with her fingers, but the material was too strong - she was completely _sealed away_.
 
-Althea's heart began to race with panic as she realized that she was trapped inside. She tried to pull it off, but it was like trying to remove a second skin. The material seemed to have bonded with her own body, making it impossible to separate the two.
+Althea's heart began to race with panic as she realized that she was trapped inside the suit. She tried to pull it off, but it was like trying to remove a second skin. The material seemed to have bonded with her own skin, making it impossible to separate the two.
 
 She looked around the room, searching for any clues or information that could help her understand what was going on. That's when she noticed the manual that had come with the suit, lying on the floor next to the empty box.
 
 She picked it up and quickly flipped through the pages, her eyes scanning the text as she tried to find any information that could help her. It was then that she came across a passage that made her heart skip a beat:
 
-"Each time the wearer has an orgasm while wearing the Succubus Skin™, the suit will seal itself for 24 hours, during which time the wearer will be unable to remove it. This is indicated by a symbol that will appear on the lower abdomen of the wearer."
+_"Each time the wearer has an orgasm while wearing the Succubus Skin™, the suit will seal itself for 24 hours, during which time the wearer will be unable to remove it. This is indicated by a symbol that will appear on the lower abdomen of the wearer."_
 
 Althea's hands trembled as she read the ominous passage again, her eyes scanning the words in disbelief. The implications of what she was reading slowly started to sink in. She couldn't believe what she was reading - she had been stuck inside the suit for a full 24 hours, with no way to remove it.
 
 As she looked down at the strange symbol etched onto the material of the suit, her mind started racing with fear and confusion. The symbol seemed to taunt her, a constant reminder of her predicament. Althea's heart pounded in her chest, and she felt a surge of panic rising within her.
 
-Althea's thoughts were interrupted by a sudden wave of anger and frustration that welled up inside her. She slammed the manual shut and threw it across the room, feeling a sense of betrayal that was almost overwhelming. How could she have been so foolish to not read the manual thoroughly? How could she have not known what she was getting herself into?
+Althea's thoughts were interrupted by a sudden wave of anger and frustration that welled up inside her. She slammed the manual shut and threw it across the room, feeling a sense of betrayal that was almost overwhelming. How could she have been so foolish to not read the manual thoroughly? How could she have not known what she was getting herself into? And why someone would add such kind of feature?
 
-But as the anger started to dissipate, Althea realized that she had no choice but to accept her fate. She was trapped inside the suit, and there was nothing she could do about it.
-
-With a heavy sigh, Althea pushed herself up from the bed, feeling the laminate skin of the suit clinging to her body. The material, which had once felt smooth and cool to the touch, now felt almost alive against her skin, as if it were trying to mold itself to her every movement.
+But as the anger started to dissipate, Althea realized that she had no choice but to accept her fate. With a heavy sigh, she pushed herself up from the bed, feeling the laminate suit clinging to her body. The material, which had once felt smooth and cool to the touch, now felt almost alive against her skin, as if it were trying to mold itself to her every movement.
 
 Desperate for a way to calm her nerves and clear her thoughts, Althea decided to take a shower. She made her way to the bathroom, feeling the material of the suit shifting and sliding against her skin with each step. As she turned on the faucet, she couldn't help but feel a sense of relief as the warm water began to cascade over her body.
 
 The laminate skin was impervious to the water, but Althea could feel the heat penetrating through to her skin underneath. She closed her eyes and let the water wash over her, feeling the tension and fear start to melt away.
 
-After a few minutes, Althea turned off the shower and stepped out, feeling refreshed and renewed. She wrapped a soft towel around herself and made her way to the small kitchen area of her apartment.
+After a few minutes, Althea turned off the shower and stepped out, feeling refreshed and renewed. She quickly wiped herself with a soft towel and made her way to the small kitchen area of her apartment.
 
 As she made herself a cup of tea, Althea couldn't help but think about the situation she was in. She felt trapped, both physically and emotionally. She couldn't leave her apartment, couldn't take off the suit, and she didn't know how long she had left until the symbol on her abdomen disappeared, freeing her from the suit's grasp.
 
-Althea realized that she needed to keep herself occupied, to keep her mind from dwelling on her predicament. She put on a pair of underwear, feeling a little more secure and covered up. Then she decided to clean up her apartment, thinking that it would at least give her something to do while she waited for the symbol to disappear.
+Althea's mind was racing with anxiety as she tried to come up with ways to distract herself from the situation at hand. As she looked down at her naked, demon-like body, Althea felt a sudden urge to cover herself up.
 
-Althea moved around her small apartment, taking in her surroundings. She straightened up her bed, fluffed the pillows, and smoothed out the blankets. She carefully folded the clothes that were strewn across the room and put them away in their respective drawers.
+Althea quickly found a loose-fitting black hoodie and a pair of leggings, hoping that covering up her demonic form would help her feel more comfortable. She hastily pulled them on, adjusting the hood over her demonic horns.
 
-As she worked, Althea couldn't help but think about the suit and the rush of pleasure it had given her. The way it had clung to her body, accentuating her curves, had made her feel powerful and seductive. She imagined herself wearing it in public, turning heads and drawing admiring looks.
+As she looked at herself in the mirror, she couldn't help but feel a sense of disappointment. The loose clothing did little to hide the curves of her demon form, and her glowing yellow eyes and red skin were still visible under the hood.
+
+Her mind raced with all sorts of possible scenarios, and none of them offered a way out of the predicament she was in. She wondered how she would explain her situation to anyone if they came over, or worse, if she had to go outside.
+
+Althea took a deep breath and reminded herself that she was safe inside her apartment. No one could see her, and she had no reason to be ashamed of her appearance. She decided to clear her apartment, giving herself something to do while she waited for the symbol to disappear.
+
+She started by picking up the manual and the empty box and placing them neatly on her coffee table. Then, she moved to the kitchen area, washing the dishes and wiping down the counters. Althea took her time with each task, trying to focus on the present moment instead of the uncertainty of her future.
+
+Next, Althea moved to the living room, picking up any stray items and rearranging the furniture. She put on some upbeat music to help lift her spirits and to keep her mind from wandering back to her current situation.
+
+But as she worked, Althea couldn't help but think about the suit and the rush of pleasure it had given her. The way it had clung to her body, accentuating her curves, had made her feel powerful and seductive. She imagined herself wearing it in public, turning heads and drawing admiring looks.
 
 She felt a thrill of excitement at the memory, wondering what it would be like to explore the suit's abilities further. The thought of exploring the darker side of her desires made her heart race with anticipation.
 
-But then a small voice in the back of her mind reminded her of the manual, of the warning about having another orgasm while wearing the suit. Althea knew that she couldn't take that risk, not when she was already trapped in the suit for another day.
+But then a small voice in the back of her mind reminded her of the danger that came with indulging in such desires. She remembered the warning in the manual and the symbol that was still etched on her second skin. Althea knew that she couldn't take that risk, no matter how tempting it might be.
 
 Althea's thoughts were interrupted by a knock on her door. She froze for a moment, unsure of what to do. She couldn't let anyone see her like this, but she also didn't want to draw attention to herself by not answering the door.
 
@@ -129,43 +137,47 @@ Althea hesitated for a moment before responding. "Yes, I'm here. What can I do f
 
 "I was just wondering if everything is okay. I haven't seen you in a few days, and I heard some strange noises coming from your apartment last night," Mrs. Lee said.
 
-Althea felt a surge of panic rise up in her chest. She had been so lost in her thoughts that she hadn't even realized she had made any noise. She tried to think of a plausible excuse but came up short.
+Althea's heart pounded in her chest. She hadn't realized that her climax had been loud enough for her neighbour to hear. She tried to come up with a believable excuse, but her mind was blank.
 
-"I'm fine, thank you for asking. I've just been working on a project and must have been up late. Sorry if I disturbed you," Althea said, trying to sound as casual as possible.
+Althea took a deep breath, trying to stay calm. "Oh, I'm sorry if I disturbed you, Mrs. Lee. I was just... um... trying out a new exercise routine," she said, hoping that her neighbour would buy the lie.
 
-Mrs. Lee seemed to accept her explanation. "Okay, just wanted to make sure everything was alright. Let me know if you need anything."
-
-Althea breathed a sigh of relief as she heard Mrs. Lee's footsteps fading away down the hall. She knew she needed to be more careful and try to keep a lower profile, especially with her new, unconventional look.
+Mrs. Lee seemed to hesitate for a moment before nodding. "Okay, I understand. Just wanted to make sure everything was okay. If you need anything, don't hesitate to let me know," she said before turning to leave.
 
 With a clear head, Althea resumed tidying up her apartment, carefully putting things in their proper places. As she worked, she realized that the suit had become imperceptible, almost like she was wearing nothing at all.
 
 With a sense of accomplishment, Althea finished cleaning her apartment, organizing her belongings, and wiping down every surface until it shone. She stood back, surveying her work with satisfaction, feeling proud of herself for making her space look tidy and inviting.
 
-Needing a break from her thoughts and the confinement of the suit, Althea decided to browse through her virtual movie collection. She scrolled through the titles, pausing at some before moving on, until she settled on a romantic comedy. She hoped that the light-hearted storyline would help her forget about the suit and her fears.
+Finally, Althea decided to reward herself by watching a movie. She scrolled through the titles of her virtual collaction, pausing at some before moving on, until she settled on a romantic comedy. She hoped that the light-hearted storyline would help her forget about her fears.
 
 Settling onto the couch, Althea propped her feet up on the coffee table, and pressed play. As she watched the movie, she found herself getting lost in the story, laughing at the comedic moments, and feeling the emotional pull of the romantic scenes. The characters' struggles and triumphs captured her imagination, and for a little while, Althea forgot about her own problems.
 
-But as the movie came to an end, Althea's thoughts returned to the suit and her confinement. She looked down at the symbol on her abdomen and noticed that it was much less visible than before. Her heart leapt with joy, feeling hopeful that the symbol was slowly fading away, and that she was closer to her freedom.
+But as the movie came to an end, Althea's thoughts returned to the suit and her confinement. She pulled down her leggings a bit to look down at the symbol on her abdomen and noticed that it was much less visible than before. Her heart leapt with joy, feeling hopeful that the symbol was slowly fading away, and that she was closer to her freedom.
 
-Hours passed, and the sun began to set, casting the room in a warm, orange glow. Althea got up from the couch, letting out a contented sigh, and caught a glimpse of herself in the mirror. The sight of herself in the suit caught her off guard, and she couldn't help but feel a twinge of desire once again.
+It was a dark and chilly night, and Althea's apartment was almost eerily quiet, save for the low hum of the air conditioning unit. The movie credits had just finished rolling, and Althea sat in silence for a few moments, her mind wandering.
 
-She shook her head, trying to clear her thoughts. She knew that she couldn't give in to her urges, not when the consequences were so severe. Althea reminded herself of the manual and the warnings it contained. She couldn't risk being trapped in the suit for another day.
+Finally, pushing herself up from the couch, Althea stretched her limbs and felt the tension release from her muscles. She made her way to her bedroom, taking off her hoodie and leggings, and leaving them on a nearby chair. But as she walked past the full-length mirror on her closet door, she caught a glimpse of herself in the suit, and she froze.
 
-Feeling a sense of unease, Althea made her way to her bedroom, hoping to find some peace in sleep. She climbed into bed and pulled the covers over her, closing her eyes and trying to calm her racing thoughts.
+Althea's heart raced as she stared at her reflection. The symbol on her abdomen had almost completely disappeared, and she knew that she was getting closer to being free from the suit. But as she looked at herself, she couldn't help but feel a twinge of desire once again.
+
+Althea shook her head, trying to clear her mind of the tempting thoughts. She knew that giving into those desires would only prolong her confinement in the suit, and she was determined to break free from its grip. Feeling a sense of unease, Althea climbed into bed and pulled the covers up to her chin.
 
 But as she closed her eyes, Althea's thoughts drifted back to the suit and the way it had made her feel. She tried to push those thoughts out of her mind, but they persisted, growing stronger with each passing moment.
 
-Althea turned onto her side, facing away from the mirror, and tried to quiet her mind. She knew that she needed to stay strong, to resist the temptation of the suit. But as she lay there in the dark, Althea felt the desire building within her once again.
+Althea turned onto her side, facing away from the closet mirror, and tried to quiet her mind. She knew that she needed to resist the temptation, but it seemed impossible. The more she tried to push it away, the more it consumed her thoughts.
 
-She knew that she couldn't give in to her urges, but her body seemed to have a mind of its own. Althea tossed and turned in her bed, feeling the tightness of the skinsuit against her skin, taunting her with its promise of pleasure.
+She knew that she couldn't give in to her urges, but her body seemed to have a mind of its own. Althea tossed and turned in her bed, feeling the tightness of the laminate against her skin, taunting her with its promise of pleasure.
 
 Finally, unable to resist any longer, Althea reached down and began to touch herself. She tried to be gentle, to take things slow and avoid climaxing, but the sensations were too intense to resist. Her hands started to caress her most intimate areas, and Althea felt herself getting lost in the pleasure once again.
 
-Althea's body writhed with pleasure, her fingers working faster and harder as she approached orgasm. The material of the skinsuit stretched and shifted around her, intensifying the sensations and making her feel as though she were on fire.
+Althea gasped as waves of pleasure washed over her body, making her arch her back and moan softly. She tried to stop, to regain control over herself, but the suit seemed to have a mind of its own, driving her towards ecstasy.
 
-Finally, with a gasp, Althea reached the peak of her pleasure, her body convulsing as waves of ecstasy washed over her. She cried out, her voice echoing through the small apartment as she came.
+Finally, with a sharp intake of breath, Althea reached the peak of her pleasure. Her body trembled as waves of ecstasy coursed through her, making her arch her back and dig her nails into the laminate material of the suit. She cried out, her voice echoing through the small apartment as she came.
 
-As Althea lay there, panting and spent, she suddenly realized that the symbol on her abdomen had become fully opaque again. Her heart sank as she realized what she had done.
+---
+
+As the intense emotions started to subside, Althea's eyes fluttered closed, and she fell back onto the bed, her body slick with sweat. She lay there for a few moments, her mind consumed by the pleasure, before finally opening her eyes and looking down at her body.
+
+To her horror, the symbol on her lower abdomen had become fully opaque once again. Althea sat up, her fingers trembling as she reached down to touch the symbol. Her heart sank as she realized what she just done.
 
 She was trapped in the suit for another 24 hours.
 
