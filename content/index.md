@@ -28,7 +28,7 @@ The skin in the box was a deep, rich scarlet, and as Althea gazed upon it, she w
 
 Althea's hands trembled as she reached into the box, running her fingers over the smooth, stretchy material. The suit felt cool and supple against her skin, sending a shiver of excitement down her spine. She marveled at the suit's intricate design, admiring the way the red material seemed to glow in the dim light of her apartment.
 
-[Continue Reading...](/story/sealed-away)
+[Continue Reading...](/stories/sealed-away)
 ::
 
 ::wiki-featured{to="/wiki" icon="fa-solid fa-lines-leaning"}
