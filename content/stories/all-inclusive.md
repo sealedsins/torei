@@ -2,7 +2,6 @@
 title: All-inclusive
 author.name: Sealed Sins
 author.link: https://twitter.com/sealedsins
-image: /assets/stories/all-inclusive.jpg
 tags: ['story']
 description: Panic set in as Eve recalled that she was sealed inside the suit. She clawed at the material, trying to find a way to pry it off her body, but it was no use. The suit was designed to be inescapable, and there was no way to remove it without a key.
 ---
