@@ -1,5 +1,5 @@
+import type { IconPack } from '@fortawesome/fontawesome-common-types';
 import { library, config } from '@fortawesome/fontawesome-svg-core';
-import { IconPack } from '@fortawesome/fontawesome-common-types';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';

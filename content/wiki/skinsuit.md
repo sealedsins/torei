@@ -32,6 +32,6 @@ Another popular use of skinsuits is in the world of espionage and infiltration. 
 
 Despite their popularity, skinsuits have also been the subject of controversy on Torei. Some people have raised concerns about the ethical implications of creating a type of clothing that mimics human skin so closely, while others have criticized the technology for its potential to be used in deceptive or manipulative ways. Additionally, there are concerns about the long-term effects of wearing a skinsuit, particularly in terms of the impact on an individual's mental health and sense of self-identity.
 
-In response to these concerns, some Torean governments have implemented regulations on the use of skinsuits. These regulations typically require individuals to register their skinsuits with the local authorities, and may require periodic [check-ups](/story/skin-deep) to ensure that the skinsuit is being used in a responsible manner.
+In response to these concerns, some Torean governments have implemented regulations on the use of skinsuits. These regulations typically require individuals to register their skinsuits with the local authorities, and may require periodic [check-ups](/stories/skin-deep) to ensure that the skinsuit is being used in a responsible manner.
 
 Despite the controversies surrounding skinsuits, they remain a popular and unique form of clothing on Torei. As the technology behind the creation of skinsuits continues to evolve, it is likely that they will become even more realistic and advanced in the future.

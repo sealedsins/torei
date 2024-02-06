@@ -8,7 +8,13 @@ defineProps<{
 </script>
 
 <template>
-	<img v-bind="$props" class="prose-img" :src="useAsset(src)" />
+	<img
+		class="prose-img"
+		:src="useAsset(src)"
+		:width="width"
+		:height="height"
+		:alt="alt"
+	/>
 </template>
 
 <style scoped lang="scss">

@@ -9,7 +9,7 @@ tags: ['wiki', 'society', 'government', 'ministry']
 
 The Ministry of Wombs has a long and complex history on Torei, dating back to the early days of the planet's settlement. Originally, the ministry was created to manage the reproductive rights and obligations of female settlers, ensuring that the population of Torei would continue to grow and thrive.
 
-Over time, the ministry's role expanded, as it began to take on new responsibilities related to [slavery](/wiki/slavery) and the [regulation of female bodies](/wiki/ministry-of-improvement). Today, the ministry is one of the most powerful institutions on [Torei](/wiki/torei), with immense influence over the lives of Torean women and their slaves.
+Over time, the ministry's role expanded, as it began to take on new responsibilities related to [slavery](/wiki/slavery) and the [regulation of female bodies](/wiki/ministry-of-improvements). Today, the ministry is one of the most powerful institutions on [Torei](/wiki/torei), with immense influence over the lives of Torean women and their slaves.
 
 ## Function
 

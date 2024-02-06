@@ -1,16 +1,14 @@
-<script setup lang="ts">
-const { toc } = useContent();
-</script>
-
 <template>
-	<card v-if="toc" class="wiki-toc">
-		<template v-for="(link, index) in toc.links">
-			<div class="wiki-toc__section">
-				<span class="wiki-toc__index">{{ index + 1 }}.</span>
-				<a class="wiki-toc__link" :href="'#' + link.id">{{ link.text }}</a>
-			</div>
-		</template>
-	</card>
+	<ContentDoc v-slot="{ doc }">
+		<card v-if="doc.body?.toc" class="wiki-toc">
+			<template v-for="(link, index) in doc.body.toc.links">
+				<div class="wiki-toc__section">
+					<span class="wiki-toc__index">{{ index + 1 }}.</span>
+					<a class="wiki-toc__link" :href="'#' + link.id">{{ link.text }}</a>
+				</div>
+			</template>
+		</card>
+	</ContentDoc>
 </template>
 
 <style scoped lang="scss">

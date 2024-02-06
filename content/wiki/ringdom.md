@@ -20,7 +20,7 @@ AIs brought a new level of stability and order to Torean society, with the [Triu
 
 Ringdoms of Torei are governed by a complex system of local and international institutions. Each ringdom has its own government, which is responsible for the administration of local affairs and the implementation of the laws and customs that define the culture of the nation.
 
-At the international level, the ringdoms are governed by the [Triune Ministries](/wiki/triune-ministries) of Torei. These ministries are responsible for the regulation of female affairs and international slave code ([Ministry of Wombs](/wiki/ministry-of-wombs)), the management of law enforcement and public order ([Ministry of Truants](/wiki/ministry-of-truants)), and the provision of healthcare, cosmetic enhancements, and other services ([Ministry of Improvements](/wiki/ministry-of-imporvements)).
+At the international level, the ringdoms are governed by the [Triune Ministries](/wiki/triune-ministries) of Torei. These ministries are responsible for the regulation of female affairs and international slave code ([Ministry of Wombs](/wiki/ministry-of-wombs)), the management of law enforcement and public order ([Ministry of Truants](/wiki/ministry-of-truants)), and the provision of healthcare, cosmetic enhancements, and other services ([Ministry of Improvements](/wiki/ministry-of-improvements)).
 
 <!--
 

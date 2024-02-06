@@ -1,6 +1,10 @@
 <script setup lang="ts">
 const props = defineProps<{ to?: string }>();
-const onClick = () => navigateTo(props.to, { external: true });
+const onClick = () => {
+	if (props.to) {
+		navigateTo(props.to);
+	}
+};
 </script>
 
 <template>

@@ -1,14 +1,16 @@
-import { NuxtConfig } from '@nuxt/schema';
+import type { NuxtConfig } from '@nuxt/schema';
 import { resolve } from 'node:path';
 
 // Leet: TOREI -> 70R31 -> 7031
 // I need to explicitly set this so it would not interfere with my work project.
 const PORT = parseInt(process.env.PORT || '7031');
 
+// Document-driven approach is going to be removed:
+// https://github.com/nuxt/content/issues/2336#issuecomment-1851609319
+
 const contentSettings: NuxtConfig = {
 	modules: ['@nuxt/content'],
 	content: {
-		documentDriven: true,
 		ignores: ['drafts'],
 		sources: {
 			site: {
@@ -25,6 +27,11 @@ const contentSettings: NuxtConfig = {
 				global: true, // MDC
 			},
 		],
+	},
+	nitro: {
+		prerender: {
+			failOnError: false,
+		},
 	},
 	hooks: {
 		'build:manifest': (manifest) => {
