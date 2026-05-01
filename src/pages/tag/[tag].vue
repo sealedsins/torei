@@ -7,10 +7,10 @@ useHead({ title: `Tag "${route.params.tag.toString()}"` });
 <template>
 	<card-query :query="query">
 		<template #not-found>
-			<h1 class="title">No results found for tag "{{ $route.params.tag }}".</h1>
+			<h1 class="title">No results found for tag "{{ route.params.tag }}".</h1>
 		</template>
 		<template #header>
-			<h1 class="title">Tagged as "{{ $route.params.tag }}":</h1>
+			<h1 class="title">Tagged as "{{ route.params.tag }}":</h1>
 		</template>
 	</card-query>
 </template>

@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { useAsset } from '~/composables/use-asset';
 defineProps<{
 	src: string;
 	width?: string | number;
